@@ -5,7 +5,10 @@
 Utilizando condicionais para verificar a escolha do jogador 
 e usando a função Math.random() para gerar a jogada do computador.
 
+## Acesse o projeto aqui: [link](https://josealbertodeev.github.io/jokenpo/)
+
 ## Gif demonstração do projeto: 👇
+
 ![animação 1](https://github.com/user-attachments/assets/28e1c905-44d4-43af-b929-b0d7b2a631a8)
 
 ## Criado por [@josealbertodeev](https://github.com/josealbertodeev/josealbertodeev)
