@@ -5,7 +5,7 @@
 Utilizando condicionais para verificar a escolha do jogador 
 e usando a função Math.random() para gerar a jogada do computador.
 
-## Acesse o projeto aqui: [link](https://josealbertodeev.github.io/jokenpo/)
+## Acesse o projeto aqui: [link](https://jokenpo-nu-five.vercel.app)
 
 ## Gif demonstração do projeto: 👇
 
